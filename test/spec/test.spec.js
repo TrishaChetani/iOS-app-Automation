@@ -1,4 +1,11 @@
-describe('Egami Automation', function () {
+/**
+* Provides automated checks of iOS app
+*/ 
+
+/**
+* Provides test of launching of app and navigation through splash screen 
+*/
+describe('Egami Automation test cases', function () {
     it('should launch the app and click on continue from splash screen', function () {
     	browser.click(`~CONTINUE`);
    		browser.click(`~CONTINUE`);
