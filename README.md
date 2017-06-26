@@ -1,8 +1,10 @@
-# Project Title: EgamiiOsAppAutomation
+# Project Title: Egami-iOS-appAutomation
 iOS App Automation using Appium & Webdriver.io
 
 #Getting Started: Need to updated
+
 #Installing: Need to updated
+
 #Running the tests: wdio wdio.conf.js
 
 #Recorded Demo : http://tinyurl.com/y7r9fmey
@@ -14,7 +16,7 @@ Appium Version : 1.6.5
 
 #ProjectStructure:
 
-1. Shots : Caputure Screenshot on Failure and useful for reporting purpose.
+1. Shots : Caputure Screenshot on Failure and useful for reporting purpose(Ease for debugging)
 
 2. Test/spec : automated checks
 
