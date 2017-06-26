@@ -1,5 +1,6 @@
 /**
 * Provides automated checks of iOS app
+* @author: Trisha Chetani
 */ 
 
 /**
