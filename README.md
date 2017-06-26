@@ -1,6 +1,6 @@
 # EgamiiOsAppAutomation
 
-Demo : http://tinyurl.com/y7r9fmey
+Recorded Demo : http://tinyurl.com/y7r9fmey
 
 Device Version : 10.3.2
 XCode Version : 8.3.3
