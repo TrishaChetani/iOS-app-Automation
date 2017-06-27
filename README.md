@@ -8,6 +8,7 @@ iOS App Automation using Appium & Webdriver.io
 #Running the tests: wdio wdio.conf.js
 
 #Recorded Demo : http://tinyurl.com/y7r9fmey
+                 https://tinyurl.com/yaca2dd3
 
 #Version
 Device Version : 10.3.2
