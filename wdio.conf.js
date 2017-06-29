@@ -61,7 +61,7 @@ exports.config = {
         'platformVersion': '10.3.2',
         'platformName': 'iOS',
         'deviceName': 'iPhone',
-        'app': '/Users/trishachetani/Desktop/umps/apps/umps.ipa',
+        'app': 'umps.ipa',
         'udid': '6ea475f473b807c2b8839e8e76220098f23b12d6',  
     }],
     //
